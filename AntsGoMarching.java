@@ -77,8 +77,11 @@ public class AntsGoMarching
     public static void main(String[] args) 
     {
         System.out.println("Ants Go Marching\n");
-        
         singIt("one","suck his thumb");
+        singIt("two","tie his shoe");
+        singIt("three","climb a tree");
+        singIt("four","shut the door");
+        singIt("five","take a dive");
     }
    
-}
+} 
